@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.guardiangarageworks.com/sitemap.xml
+Sitemap: https://guardiansrepair.com/sitemap.xml
